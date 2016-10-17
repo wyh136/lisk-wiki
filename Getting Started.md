@@ -39,6 +39,9 @@ Lisk Nano enables you to send and receive transactions on the Lisk network and p
 ## <a name="obtaining"></a>Obtaining Lisk
 
 ### <a name="buy"></a>Buy Bitcoin
+First, you will need to buy some Bitcoin that you can exchange for Lisk.  Two of the most popular sites to easily/quickly get bitcoin are:
+[Coinbase](https://www.coinbase.com/) (USD, EUR, UK, CAD, Australian, Singapore)
+[Kraken](https://www.kraken.com) (USD, EUR, GBP, JPY, CAD)
 
 ### <a name="exchange"></a>Exchange BTC for LSK
 
