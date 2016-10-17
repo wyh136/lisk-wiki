@@ -1,2 +1,2 @@
-* [Home](https://github.com/LiskHQ/wiki)
-* [Getting Started](https://github.com/LiskHQ/wiki/Getting Started)
+* [Home](https://github.com/LiskHQ/lisk-wiki)
+* [Getting Started](https://github.com/LiskHQ/lisk-wiki/Getting Started)
