@@ -32,6 +32,7 @@
         2. supported platforms/architectures.
       2. Docker Installation
     3. Lisk Nano
+      The Lisk Nano client can be downloaded from our [download page](https://lisk.io/download)
       1. Windows
       2. Mac
       3. Linux
