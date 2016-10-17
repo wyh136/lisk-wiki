@@ -14,6 +14,7 @@
 ## <a name="downloads"></a>Downloads
 
 ### <a name="requisite"></a>Pre-requisite for Installation
+You will need some basic Linux knowledge to use the Binary Installation.  If you have never used linux before, you can try the Docker version or the Nano client (highly recommended).
 
 ### <a name="client"></a>Lisk Client
 
