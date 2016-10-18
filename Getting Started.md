@@ -32,22 +32,22 @@ wget https://downloads.lisk.io/scripts/installLisk.sh
 ```
 ***Next, execute the install script. This will download and install Lisk, configuring the environment for use.***
 
-**Mainnet**
+Mainnet
 ```
 bash installLisk.sh install -r main
 ```
-**Testnet**
+Testnet
 ```
 bash installLisk.sh install -r test
 ```
 
 ***Lastly, to access the Lisk web client, open a browser and navigate to one of the following depending on the network:***
 
-**Mainnet**
+Mainnet
 ```
 http://{IP of device running Lisk}:8000/
 ```
-**Testnet**
+Testnet
 ```
 http://{IP of device running Lisk}:7000/
 ```
