@@ -44,9 +44,13 @@ docker pull lisk/testnet
 Install the docker image (executed only once per installation):
 
 Mainnet:
-```docker run -d --restart=always -p 0.0.0.0:8000:8000 lisk/mainnet```
+```
+docker run -d --restart=always -p 0.0.0.0:8000:8000 lisk/mainnet
+```
 Testnet:
-```docker run -d --restart=always -p 0.0.0.0:7000:7000 lisk/testnet```
+```
+docker run -d --restart=always -p 0.0.0.0:7000:7000 lisk/testnet
+```
 *NOTE: On Windows or Mac OS X, these commands are issued from within the Docker Quickstart Terminal.*
 
 Upon successful completion, you will have a running Lisk node with an up-to-date snapshot of the blockchain. The container is configured to automatically restart upon reboot of the server or any occurrence of an error.
