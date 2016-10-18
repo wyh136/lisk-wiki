@@ -18,13 +18,39 @@ You will need some basic Linux knowledge to use the Binary Installation.  If you
 ### <a name="client"></a>Lisk Client (Full Node)
 
 #### <a name="binary"></a>Binary Installation
-The following operating systems and architectures are supported:
+The following operating systems and architectures are supported for the binary installation:
 * Linux (x86_64)
 * Linux (i686)
 * Linux (armv6l)
 * Linux (armv7l)
 * Darwin (x86_64)
 * FreeBSD (amd64)
+
+First, download the install script.
+```
+wget https://downloads.lisk.io/scripts/installLisk.sh
+```
+Next, execute the install script. This will download and install Lisk, configuring the environment for use.
+
+Mainnet
+```
+bash installLisk.sh install -r main
+```
+Testnet
+```
+bash installLisk.sh install -r test
+```
+
+Lastly, to access the Lisk web client, open a browser and navigate to one of the following depending on the network:
+
+Mainnet
+```
+http://{IP of device running Lisk}:8000/
+```
+Testnet
+```
+http://{IP of device running Lisk}:7000/
+```
 
 #### <a name="docker"></a>Docker Installation
 **It is recommended you first become familiar with Docker if you are not already**
