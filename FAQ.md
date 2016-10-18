@@ -19,6 +19,7 @@ Lisk utilizes an inflationary forging rewards system which creates new LSK for e
 
 ## <a name="hForge"></a>How do I forge?
 To forge, three criteria have to met:
+
 1. You have to register a delegate with your account.
 2. You have to acquire enough voting weight to be in the top 101 delegates.
 3. You have to have your account enable forging on a Lisk node.
