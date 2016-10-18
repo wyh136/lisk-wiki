@@ -26,11 +26,11 @@ The following operating systems and architectures are supported for the binary i
 * Darwin (x86_64)
 * FreeBSD (amd64)
 
-1. Download the install script.
+***First, download the install script.***
 ```
 wget https://downloads.lisk.io/scripts/installLisk.sh
 ```
-2. Execute the install script. This will download and install Lisk, configuring the environment for use.
+***Next, execute the install script. This will download and install Lisk, configuring the environment for use.***
 
 **Mainnet**
 ```
@@ -41,7 +41,7 @@ bash installLisk.sh install -r main
 bash installLisk.sh install -r test
 ```
 
-3. Lastly, to access the Lisk web client, open a browser and navigate to one of the following depending on the network:
+***Lastly, to access the Lisk web client, open a browser and navigate to one of the following depending on the network:***
 
 **Mainnet**
 ```
