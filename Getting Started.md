@@ -28,20 +28,21 @@ The following operating systems and architectures are supported:
 
 #### <a name="docker"></a>Docker Installation
 **It is recommended you first become familiar with Docker if you are not already**
+
 To install the latest version of Lisk as a docker container, please proceed with the following:
 
 Download the appropriate docker image:
 
 Mainnet:
-`docker pull lisk/mainnet`
+```docker pull lisk/mainnet```
 Testnet:
-`docker pull lisk/testnet`
+```docker pull lisk/testnet```
 Install the docker image (executed only once per installation):
 
 Mainnet:
-`docker run -d --restart=always -p 0.0.0.0:8000:8000 lisk/mainnet`
+```docker run -d --restart=always -p 0.0.0.0:8000:8000 lisk/mainnet```
 Testnet:
-`docker run -d --restart=always -p 0.0.0.0:7000:7000 lisk/testnet`
+```docker run -d --restart=always -p 0.0.0.0:7000:7000 lisk/testnet```
 *NOTE: On Windows or Mac OS X, these commands are issued from within the Docker Quickstart Terminal.*
 
 Upon successful completion, you will have a running Lisk node with an up-to-date snapshot of the blockchain. The container is configured to automatically restart upon reboot of the server or any occurrence of an error.
