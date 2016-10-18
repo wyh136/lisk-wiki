@@ -34,9 +34,13 @@ To install the latest version of Lisk as a docker container, please proceed with
 Download the appropriate docker image:
 
 Mainnet:
-```docker pull lisk/mainnet```
+```
+docker pull lisk/mainnet
+```
 Testnet:
-```docker pull lisk/testnet```
+```
+docker pull lisk/testnet
+```
 Install the docker image (executed only once per installation):
 
 Mainnet:
