@@ -47,3 +47,4 @@ First, you will need to buy some Bitcoin that you can exchange for Lisk.  Two of
 ### <a name="exchange"></a>Exchange BTC for LSK
 
 ### <a name="forging"></a>Forging Rewards/Become a Delegate
+Lisk utilizes DPoS with an inflationary forging rewards system which creates new LSK for every successful block.  The forging rewards are equally distributed through all active delegates, same as any network fees.  To become an active delegate you have to be voted on by Lisk accounts.  A delegate's approval is determined by the total Lisk held in accounts that have voted for them.  The top 101 delegates with the most approval, are the active delegates that receive rewards & fees.
