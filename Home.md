@@ -2,9 +2,9 @@
 
 This wiki is a community driven effort that covers information about the Lisk platform, including but not limited to: the underlying cryptocurrency (LSK), peer-to-peer technology, algorithm consensus, delegate proof of stake
 
-  ##### <a href="#what">What Is The Lisk Platform?</a>
-  ##### <a href="#purpose">Use Cases For The Lisk Platform?</a>
-  ##### <a href="#problem">What Problem Does Lisk Solve?</a>
+##### <a href="#what">What Is The Lisk Platform?</a>
+##### <a href="#purpose">Use Cases For The Lisk Platform?</a>
+##### <a href="#problem">What Problem Does Lisk Solve?</a>
 
 
 <a name="what" />
