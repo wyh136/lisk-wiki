@@ -101,7 +101,6 @@ First, you will need to buy some Bitcoin that you can exchange for Lisk.  Two of
 ### <a name="exchange"></a>Exchange BTC for LSK
 Once you have some Bitcoin, you can transfer that to any exchange that currently trades LSK/BTC and obtain some Lisk.  Some of these exchanges include:
 * BitBay
-* BitMEX
 * Bittrex
 * BloomBit
 * Chameleon Bit
