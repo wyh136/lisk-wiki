@@ -36,6 +36,6 @@ This client is similar to the Lisk Nano Client, but with additional features.
 * Send lisk from/to any account.
 * If you login to your account (with your passphrase)
   * Withdraw to altcoins or USD (via changer.com) - no registration needed
-  * Organise your accounts with virtual folders (for instance savings, personnal etc...) so ou don't pay any transfer fee
+  * Organize your accounts with virtual folders (for instance savings, personnal etc...) so ou don't pay any transfer fee
   * Update your votes.
 * Second signature supported. Multisignature accounts not yet supported.
