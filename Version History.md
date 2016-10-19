@@ -1,18 +1,18 @@
 ## Contents
-* [0.4.0](#w040)
-* [0.3.1](#w031)
-* [0.3.0](#w030)
-* [0.2.3](#w023)
-* [0.2.2](#w022)
-* [0.2.1](#w021)
-* [0.2.0](#w020)
-* [0.1.4](#w014)
-* [0.1.3](#w013)
-* [0.1.2](#w012)
-* [0.1.1](#w011)
-* [0.1.0](#w010)
+* [0.4.0](#040)
+* [0.3.1](#031)
+* [0.3.0](#030)
+* [0.2.3](#023)
+* [0.2.2](#022)
+* [0.2.1](#021)
+* [0.2.0](#020)
+* [0.1.4](#014)
+* [0.1.3](#013)
+* [0.1.2](#012)
+* [0.1.1](#011)
+* [0.1.0](#010)
 
-## <a name="040"></a>0.4.0
+# <a name="040"></a>0.4.0
 ### Backend — Accounts
 * Closed #197. Improving error messages when account does not have enough funds. Yielding sender address and account balance.
 * Closed #266. Changed behavior of POST /api/accounts/open and POST /api/accounts/generatePublicKey. New accounts are no longer written to mem_accounts. Added one-time migration to delete dormant accounts which have never received or sent funds.
