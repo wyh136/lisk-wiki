@@ -1,5 +1,18 @@
+## Contents
+* [0.4.0](#w040)
+* [0.3.1](#w031)
+* [0.3.0](#w030)
+* [0.2.3](#w023)
+* [0.2.2](#w022)
+* [0.2.1](#w021)
+* [0.2.0](#w020)
+* [0.1.4](#w014)
+* [0.1.3](#w013)
+* [0.1.2](#w012)
+* [0.1.1](#w011)
+* [0.1.0](#w010)
 
-## 0.4.0
+## <a name="040"></a>0.4.0
 ### Backend — Accounts
 * Closed #197. Improving error messages when account does not have enough funds. Yielding sender address and account balance.
 * Closed #266. Changed behavior of POST /api/accounts/open and POST /api/accounts/generatePublicKey. New accounts are no longer written to mem_accounts. Added one-time migration to delete dormant accounts which have never received or sent funds.
@@ -126,7 +139,7 @@
 * Updated upgrade instructions to use automated upgrade.
 * Updated testnet installation instructions.
 
-## 0.3.1
+## <a name="031"></a>0.3.1
 
 ### FRONTEND
 * Fixed Lisk address validations.
@@ -140,7 +153,7 @@
 * Temporary extension of reward offset.
 * Reverted forging timeout feature which was causing network to pause.
 
-## 0.3.0
+## <a name="030"></a>0.3.0
 
 ### FRONTEND
 * Complete change of terminology from dapps to blockchain applications.
@@ -172,7 +185,7 @@
 * lisk-docs — Added upgrade document.
 * lisk-docs — Added instructions for mainnet installation.
 
-## 0.2.3
+## <a name="023"></a>0.2.3
 
 ### BUILD
 * Fixed #76. Updating node/lisk-node to 0.12.14.
@@ -195,7 +208,7 @@
 * Fixed forced blocks verification on startup, i.e: config.json-loading-verifyOnLoading.
 * Closed #126. Using recommended pg-promise approach. @vitaly-t
 
-## 0.2.2
+## <a name="022"></a>0.2.2
 
 ### BUILD
 * Added lisk.sh reload command. @Isabello
@@ -228,7 +241,7 @@
 * Fixed #34. Dapp registration when 2nd passphrase enabled.
 * Fixed #43. Language switcher now works for all languages. @senikk
 
-## 0.2.1
+## <a name="021"></a>0.2.1
 
 ### BUILD
 * PostgreSQL is now included with the “Binary” install, removing the need to install it separately. A simple bash lisk.sh coldstart will initialise the database on first start.
@@ -253,7 +266,7 @@
 * New and improved Russian translation @densmirnov.
 * Refactored delegate username validations.
 
-## 0.2.0
+## <a name="020"></a>0.2.0
 
 ### BACKEND
 * Changed database engine from SQLite to [PostgreSQL](http://www.postgresql.org/). Providing faster query performance, better support for concurrency, and further options for scalability.
@@ -293,12 +306,12 @@
 * Removed usernames and contacts (to be later reimplemented as a separate Identity Dapp sidechain).
 * Improved and unified the overall user interface.
 
-## 0.1.4
+## <a name="014"></a>0.1.4
 
 * Imposing hard limit on number of transactions per block.
   * The previous limit of 100 was only checked during block verification, after a block has already been generated. Now only the last 10 unconfirmed txs in a given delegate’s stack will be included.
 
-## 0.1.3
+## <a name="013"></a>0.1.3
 
 * Fixed #45. Improved sync / block insertion rate.
 * Fixed #3. Setting X-Frame-Options/CSP headers @fix.
@@ -309,19 +322,19 @@
 * Updated bundled SQLite to version 3.12.1.
 * Fixed address in use errors on restart.
 
-## 0.1.2
+## <a name="012"></a>0.1.2
 * Allowing dapps installation from GitHub using https.
 * Fixed #13. Checking for presence of recipientId @fix.
 * SSL: Using the default cipher from recent nodejs version to protect against weak RC4 cipher @TheGoldenEye.
 * Fixed unrecoverable fork when comparing delegate id to generator id.
 
-## 0.1.1
+## <a name="011"></a>0.1.1
 * Multi-language user interface, initially with support for Chinese and German.
 * Implemented forging reward offset (first reward starts on block 60480).
 * Revised error and logs messages throughout all backend modules.
 * Change of address format (addresses now end with an L).
 
-## 0.1.0
+## <a name="010"></a>0.1.0
 * Complete rebranding of the client UI.
 * Complete clean-up of the old code base.
 * Fixed several browser specific UI bugs and inconsistencies.
