@@ -27,8 +27,8 @@ The duty of the 101 active delegates is to secure the Lisk main blockchain (i.e.
 
 ### <a name="Sidechains"></a>Sidechains
 
-
-.....
+A Lisk sidechain is a custom block**chain**, which is a fully autonomous blockchain secured by its own nodes. Every blockchain app is running in its own, unique and secure sidechain - a blockchain you can fully customise. Encapsulating the blockchain app sidechains from the main blockchain of Lisk keeps the network lean, efficient, and fast.
+**Sidechains** are an independent cryptographic ledger that attaches to the main blockchain, but does not impact the speed or security of the main chain. All the sidechain uses the same consensus protocol of the Lisk mainchain, the DPoS.
 
 
 
