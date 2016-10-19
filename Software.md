@@ -16,9 +16,8 @@ With Lisk Nano, there is no need to synchronize with the Lisk blockchain and net
 ## Unofficial
 
 ### Lisk Lite Client
-*Author: fix*
-
-*Source: https://github.com/fix/Lisk-Lite-Client*
+######Author: fix
+######Source: https://github.com/fix/Lisk-Lite-Client
 
 This client is similar to the Lisk Nano Client, but with additional features.
 **Features**
