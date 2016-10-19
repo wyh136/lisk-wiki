@@ -1,11 +1,11 @@
-## Clients
+# Clients
 
-### Official
+## Official
 
-#### Lisk Full Client
+### Lisk Full Client
 This is the official full client of lisk which includes all the features available in Lisk.  It includes both the frontend web client and backend node (peer).  It stays in sync with the blockchain and maintains a full copy of it. Running this version will make you an additional node/peer on the network.
 
-#### Lisk Nano Client
+### Lisk Nano Client
 A light-weight, simple, and fully responsive client which allows users to access the very basic Lisk features which include:
 * Create a Lisk account
 * Access a Lisk account
@@ -13,9 +13,9 @@ A light-weight, simple, and fully responsive client which allows users to access
 * View incoming & outgoing transactions
 With Lisk Nano, there is no need to synchronize with the Lisk blockchain and network, you are simply accessing one of our trusted, official Lisk nodes. As we progress, we would like to add nodes maintained by reputable and trusted community members, or possibly switch to a completely decentralized network-wide node selection.
 
-### Unofficial
+## Unofficial
 
-#### Lisk Lite Client
+### Lisk Lite Client
 *Author: fix*
 
 *Source: https://github.com/fix/Lisk-Lite-Client*
