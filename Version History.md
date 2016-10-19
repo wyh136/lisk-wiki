@@ -305,7 +305,7 @@
 * Improved logging of received unconfirmed transactions.
 * Improved logging of blocks loading from peer.
 
-## Binary Install:
+### Binary Install:
 * Updated bundled SQLite to version 3.12.1.
 * Fixed address in use errors on restart.
 
