@@ -4,8 +4,20 @@ A decentralized application, which is running in a sidechain of Lisk. If you add
 ### Bapp Store
 A universal and decentralized store which lists ALL dapps on the network. (Doesn't matter if working, not working, offline, online, not complete or completely finished).
 
+### BIP39
+Is the implementation of a mnemonic code or mnemonic sentence (a group of easy to remember words) for generating deterministic keys.  Lisk integrates mnemonic checksumming of passphrases to make sure it conforms to the BIP39 standard and that passphrase is used to generate your account.
+
+### Block
+A block is a group of transactions that were submitted to the network since the last block.  Each block (except for genesis block) references one previous block to form the tree called the blockchain.
+
+### Block Height
+Is the sequential number on the blockchain of a block. Height 0 refers to the genesis block.  Current block height refers to the number of the most recent valid block.
+
 ### Blockchain
 A public ledger of all confirmed transactions in a form of a tree of all valid blocks. Unconfirmed transactions are not part of the blockchain. If a node disagrees on which blocks are valid, a fork happens.
+
+### Brain wallet
+Instead of storing keys in a wallet file, security works via a secret passphrase.  Wallets are decentralized and kept on the network.  When you create an account, your secret passphrase is used to generate your account on the blockchain.  Once your account is generated, you can unlock it and access it by using your passphrase.  Lisk uses a brain wallet.
 
 ### Delegate
 A Lisk account which simply registered to be a delegate on the network (making it a special type of account).
@@ -17,7 +29,7 @@ This is short for Delegates Proof of Stake.  It is the algorithm Lisk uses to se
 When a node does not agree on a block, a fork happens and that node create a separate blockchain from the one it disagrees with.
 
 ### Full client
-A client which stays in sync with the mainchain and maintains a full copy of the blockchain.
+A client which stays in sync with the mainchain and maintains a full copy of the blockchain.  This is also a node or peer on the network.
 
 ### Genesis Block
 The very first block in the blockchain with hard-coded contents. The Genesis block was released on May 24, 2016 at 8pm UTC.
