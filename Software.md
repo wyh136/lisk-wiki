@@ -4,10 +4,12 @@
 
 ### Lisk Full Client
 *Download: https://lisk.io/download*
+
 This is the official full client of lisk which includes all the features available in Lisk.  It includes both the frontend web client and backend node (peer).  It stays in sync with the blockchain and maintains a full copy of it. Running this version will make you an additional node/peer on the network.
 
 ### Lisk Nano Client
 *Download: https://lisk.io/download*
+
 A light-weight, simple, and fully responsive client which allows users to access the very basic Lisk features which include:
 * Create a Lisk account
 * Access a Lisk account
