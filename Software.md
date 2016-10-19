@@ -15,6 +15,7 @@ A light-weight, simple, and fully responsive client which allows users to access
 * Access a Lisk account
 * Send & receive LSK
 * View incoming & outgoing transactions
+
 With Lisk Nano, there is no need to synchronize with the Lisk blockchain and network, you are simply accessing one of our trusted, official Lisk nodes. As we progress, we would like to add nodes maintained by reputable and trusted community members, or possibly switch to a completely decentralized network-wide node selection.
 
 ## Unofficial
@@ -25,6 +26,7 @@ With Lisk Nano, there is no need to synchronize with the Lisk blockchain and net
 
 This client is similar to the Lisk Nano Client, but with additional features.
 
+##### Overview
 * Available on Windows, Linux (ubuntu/debian) and Macosx (signed)
 * No wait to sync to the network: launch and use.
 * View any account from its address (transactions, delegate status and votes)
