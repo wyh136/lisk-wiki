@@ -26,7 +26,7 @@ With Lisk Nano, there is no need to synchronize with the Lisk blockchain and net
 
 This client is similar to the Lisk Nano Client, but with additional features.
 
-##### Overview
+#### Overview
 * Available on Windows, Linux (ubuntu/debian) and Macosx (signed)
 * No wait to sync to the network: launch and use.
 * View any account from its address (transactions, delegate status and votes)
