@@ -1,3 +1,4 @@
+Below are various tools and resources created and/or maintained by Lisk community members.
 
 **<a href="https://testnet-explorer.lisknode.io/">Alternate explorer</a>** *By: Gr33nDrag0n* <br /> An alternate choice/backup to the official Lisk blockchain explorer.
 
