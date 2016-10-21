@@ -1,15 +1,11 @@
 ## Contents
-1. [What is Lisk?](#wLisk)
-2. [What is DPoS?](#wDPoS)
-3. [What is Forging?](#wForging)
-4. [How do I forge?](#hForge)
-5. [How is the block forger picked?](#hForger)
-6. [How is Lisk different from Crypti?](#LiskCrypti)
-7. [What is this mainnet and testnet?](#mainTest)
+1. [What is DPoS?](#wDPoS)
+2. [What is Forging?](#wForging)
+3. [How do I forge?](#hForge)
+4. [How is the block forger picked?](#hForger)
+5. [How is Lisk different from Crypti?](#LiskCrypti)
+6. [What is this mainnet and testnet?](#mainTest)
 
-
-## <a name="wLisk"></a>What is Lisk?
-Lisk is a public blockchain platform and framework to develop decentralized, blockchain-based applications in JavaScript. It was forked from Crypti by Max Kordek and Olivier Beddows in early 2016.  Developers may build blockchain applications which utilize their own sidechain interlinked to the Lisk platform. Thanks to the scalability and flexibility of sidechains developers can implement and customize their blockchain applications entirely. Lisk is a non-profit organization, founded in 2016 by Max Kordek and Oliver Beddows.
 
 ## <a name="wDPoS"></a>What is DPoS?
 Lisk uses the DPoS (Delegates Proof of Stake) algorithm originally created by BitShares. What differentiates it from regular PoS (Proof of Stake) is that only the top 101 delegates (determined by voting weight of voters) are actively forging and securing the network.
