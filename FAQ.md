@@ -33,4 +33,4 @@ Lisk is a fork of Crypti, so it started out just as Crypti.  Since then though, 
 * Development is continuing and active, while Crypti seems to have stopped.
 
 ## <a name="mainTest"></a>What is this mainnet and testnet?
-The mainnet is the actual network that Lisk resides on.  All the coin, blocks, and transactions there are real.  The testnet is a Lisk network where the coins have no value.  This network is used for testing by anyone and is a free area to explore Lisk.
+The mainnet is the actual network that Lisk resides on.  All the coins, blocks, and transactions there are real.  The testnet is a Lisk network where the coins have no value.  This network is used for testing by anyone and is a free area to explore Lisk.
