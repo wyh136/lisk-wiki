@@ -2,6 +2,6 @@
 
 
 ![Lisk Wiki]
-(http://i.imgur.com/Qz4XT81.jpg)
+(http://i.imgur.com/f1Byhje.jpg)    
 
 This wiki is a community driven effort to cover all sorts of information of the cryptocurrency and blockchain application platform Lisk.
