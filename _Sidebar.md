@@ -7,5 +7,4 @@
 * [Official Resources](https://github.com/LiskHQ/lisk-wiki/wiki/Official-Resources)
 * [Software](https://github.com/LiskHQ/lisk-wiki/wiki/Software)
 * [Version History](https://github.com/LiskHQ/lisk-wiki/wiki/Version-History)
-* [Test]
 
