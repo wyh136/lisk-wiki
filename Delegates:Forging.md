@@ -7,7 +7,8 @@
   1. [What is forging?](#fWhat)
   2. [What are the system requirements to forge?](#fSystemReq)
   3. [How do I forge?](#fHow)
-  4. [How much can I forge?](#fMuch)
+  4. [How is the block forger picked?](#hForger)
+  5. [How much can I forge?](#fMuch)
 
 ## <a name="delegates"></a>Delegates
 
@@ -24,7 +25,7 @@ Every delegate is placed at a specific position on the delegate ranking list. Th
 ## <a name="forging"></a>Forging
 
 ### <a name="fWhat"></a>What is forging?
-Forging is another word for block generation, at Bitcoin this process is called mining.
+Forging is another word for block generation, at Bitcoin this process is called mining.  Lisk utilizes an inflationary forging rewards system which creates new LSK for every successful block.  More information about this below.
 
 ### <a name="fSystemReq"></a>What are the system requirements to forge?
 The most important factor is your internet connection latency. Exact numbers will be revealed in the future. Right now we estimate that any cloud hosting provider should be more than sufficient.
@@ -36,6 +37,9 @@ Once you have a delegate and it is voted into the top 101, you would just need t
 * You can login to the client user interface and enable forging by hand. The problem with this method is, that if your client restarts (due to an error or server update) forging will need to be enabled again.
 * For optimum productivity, it is recommended to run your own node and insert your passphrase into the config.json file. Best to do this before you become an active delegate. Upon starting the Lisk client, forging will be automatically enabled for all accounts for which passphrases are specified in the config.json. Which means after restarting your client, forging will continue without interruption.
 You should also be running the newest version of Lisk on the node you have forging enabled.
+
+## <a name="hForger"></a>How is the block forger picked?
+Lisk DPoS functions through a series of rounds. Rounds consist of 101 individual blocks. Each of the 101 active delegates are randomly assigned 1 block within the round to forge. If a selected delegate is unable to forge their assigned block, activity from that block moves to the next block in the round.
 
 ### <a name="fMuch"></a>How much can I forge?
 Delegates earn an equal share of all regular transaction fees occurring on the network.  The total share of regular transaction fees, is dependent on the volume of transactions occurring on the network for a given round.
