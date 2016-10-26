@@ -20,7 +20,7 @@ To forge, three criteria have to met:
 2. You have to acquire enough voting weight to be in the top 101 delegates.
 3. You have to have your account enable forging on a Lisk node.
 
-## <a name="hForger"></a>How is forger picked?
+## <a name="hForger"></a>How is the block forger picked?
 Lisk DPoS functions through a series of rounds. Rounds consist of 101 individual blocks. Each of the 101 active delegates are randomly assigned 1 block within the round to forge. If a selected delegate is unable to forge their assigned block, activity from that block moves to the next block in the round.
 
 ## <a name="LiskCrypti"></a>How is Lisk different from Crypti?
@@ -33,4 +33,4 @@ Lisk is a fork of Crypti, so it started out just as Crypti.  Since then though, 
 * Development is continuing and active, while Crypti seems to have stopped.
 
 ## <a name="mainTest"></a>What is this mainnet and testnet?
-The mainnet is the actual network that Lisk resides on.  All the coin, blocks, and transactions there are real.  The testnet is a Lisk network where the coins have no value.  This network is used for testing by anyone and is a free area to explore Lisk.
+The mainnet is the actual network that Lisk resides on.  All the coins, blocks, and transactions there are real.  The testnet is a Lisk network where the coins have no value.  This network is used for testing by anyone and is a free area to explore Lisk.
