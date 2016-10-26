@@ -1,10 +1,11 @@
 * [Home](https://github.com/LiskHQ/lisk-wiki/wiki)
-* [Community Resources](https://github.com/LiskHQ/lisk-wiki/wiki/Community-Resources)
-* [FAQ](https://github.com/LiskHQ/lisk-wiki/wiki/FAQ)
 * [Getting Started](https://github.com/LiskHQ/lisk-wiki/wiki/Getting-Started)
-* [Glossary Page](https://github.com/LiskHQ/lisk-wiki/wiki/Glossary)
-* [Lisk API Reference](https://github.com/LiskHQ/lisk-wiki/wiki/Lisk-API-Reference)
-* [Official Resources](https://github.com/LiskHQ/lisk-wiki/wiki/Official-Resources)
+* [Delegates/Forging](https://github.com/LiskHQ/lisk-wiki/wiki/Delegates-Forging)
+* Resources
+  * [Official Resources](https://github.com/LiskHQ/lisk-wiki/wiki/Official-Resources)
+  * [Community Resources](https://github.com/LiskHQ/lisk-wiki/wiki/Community-Resources)
+  * [Lisk API Reference](https://github.com/LiskHQ/lisk-wiki/wiki/Lisk-API-Reference)
 * [Software](https://github.com/LiskHQ/lisk-wiki/wiki/Software)
+* [Other FAQ](https://github.com/LiskHQ/lisk-wiki/wiki/FAQ)
+* [Glossary Page](https://github.com/LiskHQ/lisk-wiki/wiki/Glossary)
 * [Version History](https://github.com/LiskHQ/lisk-wiki/wiki/Version-History)
-
