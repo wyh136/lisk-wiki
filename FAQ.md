@@ -1,7 +1,5 @@
 ## Contents
 1. [What is DPoS?](#wDPoS)
-2. [What is Forging?](#wForging)
-3. [How do I forge?](#hForge)
 4. [How is the block forger picked?](#hForger)
 5. [How is Lisk different from Crypti?](#LiskCrypti)
 6. [What is this mainnet and testnet?](#mainTest)
