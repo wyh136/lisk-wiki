@@ -1,25 +1,11 @@
 ## Contents
 1. [What is DPoS?](#wDPoS)
-4. [How is the block forger picked?](#hForger)
-5. [How is Lisk different from Crypti?](#LiskCrypti)
-6. [What is this mainnet and testnet?](#mainTest)
+2. [How is Lisk different from Crypti?](#LiskCrypti)
+3. [What is this mainnet and testnet?](#mainTest)
 
 
 ## <a name="wDPoS"></a>What is DPoS?
 Lisk uses the DPoS (Delegates Proof of Stake) algorithm originally created by BitShares. What differentiates it from regular PoS (Proof of Stake) is that only the top 101 delegates (determined by voting weight of voters) are actively forging and securing the network.
-
-## <a name="wForging"></a>What is Forging?
-Lisk utilizes an inflationary forging rewards system which creates new LSK for every successful block. During year 1, the forging rewards are set at 5 LSK per block. Every 3,000,000 blocks (~1 year) forging rewards are reduced by 1 LSK, ending at 1 LSK per block after 5 years. The forging rewards will then stay at 1 LSK per block indefinitely. The Forging Rewards will be equally distributed through all active (top 101) delegates, same as any network fees.
-
-## <a name="hForge"></a>How do I forge?
-To forge, three criteria have to met:
-
-1. You have to register a delegate with your account.
-2. You have to acquire enough voting weight to be in the top 101 delegates.
-3. You have to have your account enable forging on a Lisk node.
-
-## <a name="hForger"></a>How is the block forger picked?
-Lisk DPoS functions through a series of rounds. Rounds consist of 101 individual blocks. Each of the 101 active delegates are randomly assigned 1 block within the round to forge. If a selected delegate is unable to forge their assigned block, activity from that block moves to the next block in the round.
 
 ## <a name="LiskCrypti"></a>How is Lisk different from Crypti?
 Lisk is a fork of Crypti, so it started out just as Crypti.  Since then though, the code is completely different.  Some of the notable differences are:
