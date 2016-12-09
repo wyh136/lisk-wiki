@@ -1,12 +1,31 @@
 # Contents
 
 ## Versions
-| [0.5.0](#050)  |      ||||
+| [0.5.1](#051)  | [0.5.0](#050)     ||||
 | ------------- |-------------|-----|-----|-----|
 | [0.4.1](#041) | [0.4.0](#040)  |   |   |   |
 | [0.3.1](#031) | [0.3.0](#030) |   |   |   |
 | [0.2.3](#023) | [0.2.2](#022) | [0.2.1](#021) | [0.2.0](#020) |   |
 | [0.1.4](#014) | [0.1.3](#013) | [0.1.2](#012) | [0.1.1](#011) | [0.1.0](#010) |
+
+
+# <a name="051"></a>0.5.1
+### Backend
+
+* Closes [#327](https://github.com/LiskHQ/lisk/issues/327). Fixing / improving fork cause 1/5 recovery.
+* Closes [#328](https://github.com/LiskHQ/lisk/issues/328). Fixing invalid total supply calculation.
+* Replaced `js-nacl` with `libsodium` library [@4miners](https://github.com/4miners)..
+* Added broadhash & consensus % info to `/api/loaders/status/sync` [@4miners](https://github.com/4miners)..
+* Added `/api/delegates/getNextForgers` endpoint [@4miners](https://github.com/4miners)..
+* Added votes to `/api/transactions/get` endpoint [@4miners](https://github.com/4miners)..
+
+
+### Build
+
+* Closed LiskHQ/lisk [#331](https://github.com/LiskHQ/lisk/issues/331). Setting max memory for high mem systems [@Isabello](https://github.com/Isabello).
+* Closed [#56](https://github.com/LiskHQ/lisk-build/issues/56). Changing installLisk.sh to use pwd for location [@Isabello](https://github.com/Isabello).
+* Closed [#58](https://github.com/LiskHQ/lisk/issues/58). Adding support for compiling libsodium / node-sodium.
+* Updated node/lisk-node to 0.12.17.
 
 
 
@@ -84,7 +103,7 @@ Excluding marked accounts from orphaned mem_accounts check.
 * Using jit-grunt to slightly speed up grunt [@Alevale](https://github.com/Alevale).
 * Updating lisk-js dependency.
 
-###Build
+### Build
 
 * Added PostgreSQL 9.6.x support to `installLisk.sh`.
 * Added logrotation support for linux in `installLisk.sh`.
@@ -106,11 +125,11 @@ Excluding marked accounts from orphaned mem_accounts check.
 * Revised and improved schema validations.
 
 
-###Frontend
+### Frontend
 * Merged [#79](https://github.com/LiskHQ/lisk-ui/pull/79). Fixing cramped high page numbers on blockchain page [@slaweet](https://github.com/slaweet).
 
 
-###Build
+### Build
 * Merged [#49](https://github.com/LiskHQ/lisk-build/pull/49). Updating md5 command for macOS [@Doweig](https://github.com/Doweig).
 * Improving block height check in ```lisk.sh``` to show “Unavailable” when query is empty [@Isabello](https://github.com/Isabello).
 
