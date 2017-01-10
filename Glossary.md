@@ -1,3 +1,6 @@
+### Address
+An address is a hashed version of a public key. They are very convenient for recieving coins  .. Ex. 9569486828221897676L
+
 ### Bapp (Dapp, Blockchain App, App)
 A decentralized application, which is running in a sidechain of Lisk. If you add a bapp to Lisk, an entry will be made on the blockchain. This will "register" it and makes it visible to everyone.
 
@@ -45,6 +48,9 @@ The currency code for Lisk.
 
 ### Node (Peer)
 A server/computer/etc. that has installed the Lisk full client and is connected to the internet.
+
+### Public Key
+A cryptographic key that can be obtained and used by anyone to encrypt messages intended for a particular recipient, such that the encrypted messages can be deciphered only by using a second key that is known only to the recipient.
 
 ### Sidechain
 A custom blockchain, which is a fully autonomous blockchain secured by its own nodes. Every bapp is one new sidechain.
