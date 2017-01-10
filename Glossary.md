@@ -28,6 +28,15 @@ A Lisk account which simply registered to be a delegate on the network (making i
 ### DPoS
 This is short for Delegates Proof of Stake.  It is the algorithm Lisk uses to secure the network.  It differentiates  from regular PoS (Proof of Stake) as only the top 101 delegates (determined by voting weight of voters) are actively forging and securing the network.
 
+### DDoS
+Is an attack by multiple systems flooding bandwidth or resources of a targeted system, usually one or more web servers.
+
+### Failover
+A method of protecting computer systems from failure, in which standby equipment automatically takes over when the main system fails.
+
+### Forging
+The process of minting blocks for the Lisk network that delegates perform.
+
 ### Fork
 When a node does not agree on a block, a fork happens and that node create a separate blockchain from the one it disagrees with.
 
