@@ -52,6 +52,9 @@ A server/computer/etc. that has installed the Lisk full client and is connected 
 ### Public Key
 A cryptographic key that can be obtained and used by anyone to encrypt messages intended for a particular recipient, such that the encrypted messages can be deciphered only by using a second key that is known only to the recipient.
 
+### Second Passphrase
+An additional measure security you can register with the blockchain that adds an additional passphase onto your account.
+
 ### Sidechain
 A custom blockchain, which is a fully autonomous blockchain secured by its own nodes. Every bapp is one new sidechain.
 
