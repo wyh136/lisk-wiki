@@ -17,7 +17,14 @@ Lisk uses the Delegated Proof of Stake (DPoS) consensus algorithms.  The network
 The duty of the 101 active delegates is to secure the Lisk main blockchain (sidechains have their own delegates). In order to provide an incentive to secure the network, transaction fees on the network are distributed equally amongst the 101 active delegates. In addition, an inflationary block reward (aka forging reward) is distributed to each block generator.
 
 ### <a name="dHow"></a>How do I become a delegate?
-To become a delegate you just need to register a delegate username within the client. After the registration your account ID appears in the list of all delegates. The registration fee is currently 25 LSK.
+To become a delegate you first need to register a delegate username within the client. After the registration your account ID appears in the list of all delegates. The registration fee is currently 25 LSK. After that you will have to setup your own Lisk server and set it to your delegate. Here are some handy guides to get you started.
+<br />
+<ul>
+<li><a href="https://forum.lisk.io/viewtopic.php?t=1119">Becoming a Lisk Delegate and Forging Activation - by densmirnov</a></li>
+<li><a href="https://forum.lisk.io/viewtopic.php?f=38&t=408">Secure basic setup of a Delegate server - by CC001</a></li>
+</ul>
+
+
 
 ### <a name="standbyActive"></a>What's an active or standby delegate?
 Every delegate is placed at a specific position on the delegate ranking list. The number of votes determines that position. All delegates with a rank between 1 and 101 are active delegates. All other delegates with a rank over 101 (102-∞) are classified as standby delegates.  Only the 101 active delegates will actually forge and earn rewards.  The standby delegates are there only to replace an active delegate if they lose enough votes to get bumped out.
