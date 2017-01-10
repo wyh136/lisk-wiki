@@ -55,6 +55,9 @@ A cryptographic key that can be obtained and used by anyone to encrypt messages 
 ### Sidechain
 A custom blockchain, which is a fully autonomous blockchain secured by its own nodes. Every bapp is one new sidechain.
 
+### Snapshot
+A copy of the blockchain that allows you to instantly sync blocks up to the point of the snapshot. Useful for rebuilds.
+
 ### Standby delegates
 All delegate accounts from rank 102 until infinity. These accounts do not actively forge and are only waiting for an opportunity to be in the top 101.
 
