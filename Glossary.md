@@ -1,5 +1,5 @@
 ### Address
-An address is a hashed version of a public key. They are very convenient for recieving coins  .. Ex. 9569486828221897676L
+An address is a hashed version of a public key. They are very convenient for receiving coins  .. Ex. 9569486828221897676L
 
 ### Bapp (Dapp, Blockchain App, App)
 A decentralized application, which is running in a sidechain of Lisk. If you add a bapp to Lisk, an entry will be made on the blockchain. This will "register" it and makes it visible to everyone.
