@@ -1,5 +1,7 @@
 <h4>Below are various tools and resources created and/or maintained by Lisk community members.</h4>
 
+**<a href="https://github.com/filipealmeida/liskak">Lisk Army Knife</a>** <br /> Forging failover and command line lisk
+
 **<a href="https://github.com/ByronAP/Lisk-API">C# interface for the Lisk API</a>** *By: ByronP* <br />Lisk API is a .net PCL (portable class library) implemented in C#.
 
 **<a href="https://www.liskafrica.com/">Lisk Africa News Page</a>** *By: Dafricash* <br />A Lisk news website for Africa written in French.
