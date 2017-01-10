@@ -18,7 +18,7 @@
   <li><a href="https://explorer.lisknodesdx.us">Explorer.Lisknodesdx.us - StellarDynamic*</a> (Mainnet)</li>
   <li><a href="https://explorer.lisk.asia">Explorer.Lisk.Asia - Phinx*</a> (Mainnet)</li>
   <li><a href="https://explorer.lisk.4miners.net">Explorer.Lisk.4miners.net - 4miners*</a> (Mainnet w/ unique features)</li>
-  <li><a href=" https://explorer.mylisk.com">Explorer.MyLisk.com - Bioly*</a>(Mainnet)</li>
+  <li><a href="https://explorer.mylisk.com">Explorer.MyLisk.com - Bioly*</a>(Mainnet)</li>
   <li><a href="https://testnet-explorer.lisknode.io/">Testnet-Explorer.LiskNode.io - Gr33nDrag0n*</a> (Testnet)</li>
   <li><a href="https://testnet-explorer.liskwallet.net">Testnet-Explorer.LiskWallet.net - Isabella*</a> (Testnet)</li>
 </ul>
