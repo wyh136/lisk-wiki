@@ -1,8 +1,4 @@
-Below are various tools and resources created and/or maintained by Lisk community members.
-
-**<a href="https://testnet-explorer.lisknode.io/">Alternate explorer</a>** *By: Gr33nDrag0n* <br /> An alternate choice/backup to the official Lisk blockchain explorer.
-
-**<a href="https://testnet-snapshot.lisknode.io/">Blockchain snapshots</a>** *By: Gr33nDrag0n* <br />Snapshots of the blockchain for quick rebuilds of a node.
+<h4>Below are various tools and resources created and/or maintained by Lisk community members.</h4>
 
 **<a href="https://github.com/ByronAP/Lisk-API">C# interface for the Lisk API</a>** *By: ByronP* <br />Lisk API is a .net PCL (portable class library) implemented in C#.
 
