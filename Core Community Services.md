@@ -32,9 +32,8 @@
 <ul>
   <li><a href="https://snapshot.lisknode.io/">Mainnet Snapshots by Gr33nDrag0n*</a></li>
   <li><a href="https://lisktools.io/backups/">Mainnet Snapshots by MrV*</a></li>
-  <li><a href="https://snapshot.lisknode.io/">Mainnet Snapshots by Gr33nDrag0n*</a></li>
   <li><a href="https://snapshot.punkrock.me/">Mainnet Snapshots by PunkRock*</a></li>
   <li><a href="https://snapshot.liskwallet.net">Mainnet Snapshots by Isabella*</a></li>
   <li><a href="https://s.mylisk.com/">Mainnet Snapshots by Bioly*</a>
   <li><a href="https://testnet-snapshot.lisknode.io/">Testnet Snapshots by Gr33nDrag0n*</a></li>
-  </ul>
+</ul>
