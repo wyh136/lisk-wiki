@@ -13,7 +13,6 @@
   <li><a href="https://wallet.mylisk.com/">Mainnet login by Bioly*</a></li>
   <li><a href="https://liskworld.info">Mainnet login by Corsaro*</a></li>
   <li><a href="https://01.lskwallet.space/">Mainnet login by Tharude*</a></li>
-  <li><a href="https://testexplorer.lisknodesdx.us/">Testnet login by StellarDynamic*</a></li>
   <li><a href="https://testnet-wallet.lisknode.io/">Testnet login by Gr33nDrag0n*</a></li>
   <li><a href="https://testnet.liskwallet.net/">Testnet login by Isabella*</a></li>
  
