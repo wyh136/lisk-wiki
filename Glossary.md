@@ -1,3 +1,6 @@
+### Address
+An address is a hashed version of a public key. They are very convenient for receiving coins  .. Ex. 9569486828221897676L
+
 ### Bapp (Dapp, Blockchain App, App)
 A decentralized application, which is running in a sidechain of Lisk. If you add a bapp to Lisk, an entry will be made on the blockchain. This will "register" it and makes it visible to everyone.
 
@@ -25,6 +28,15 @@ A Lisk account which simply registered to be a delegate on the network (making i
 ### DPoS
 This is short for Delegates Proof of Stake.  It is the algorithm Lisk uses to secure the network.  It differentiates  from regular PoS (Proof of Stake) as only the top 101 delegates (determined by voting weight of voters) are actively forging and securing the network.
 
+### DDoS
+An attack by multiple systems flooding bandwidth or resources of a targeted system, usually one or more web servers.
+
+### Failover
+A method of protecting computer systems from failure, in which standby equipment automatically takes over when the main system fails.
+
+### Forging
+The process of minting blocks for the Lisk network that delegates perform.
+
 ### Fork
 When a node does not agree on a block, a fork happens and that node create a separate blockchain from the one it disagrees with.
 
@@ -46,8 +58,17 @@ The currency code for Lisk.
 ### Node (Peer)
 A server/computer/etc. that has installed the Lisk full client and is connected to the internet.
 
+### Public Key
+A cryptographic key that can be obtained and used by anyone to encrypt messages intended for a particular recipient, such that the encrypted messages can be deciphered only by using a second key that is known only to the recipient.
+
+### Second Passphrase
+An additional measure security you can register with the blockchain that adds an additional passphase onto your account.
+
 ### Sidechain
 A custom blockchain, which is a fully autonomous blockchain secured by its own nodes. Every bapp is one new sidechain.
+
+### Snapshot
+A copy of the blockchain that allows you to instantly sync blocks up to the point of the snapshot. Useful for rebuilds.
 
 ### Standby delegates
 All delegate accounts from rank 102 until infinity. These accounts do not actively forge and are only waiting for an opportunity to be in the top 101.

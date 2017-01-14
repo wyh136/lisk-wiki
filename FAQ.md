@@ -5,7 +5,7 @@
 
 
 ## <a name="wDPoS"></a>What is DPoS?
-Lisk uses the DPoS (Delegates Proof of Stake) algorithm originally created by BitShares. What differentiates it from regular PoS (Proof of Stake) is that only the top 101 delegates (determined by voting weight of voters) are actively forging and securing the network.
+Lisk uses the DPoS (Delegates Proof of Stake) algorithm originally implemented in BitShares. What differentiates it from regular PoS (Proof of Stake) is that only the top 101 delegates are actively forging and securing the network. Voting weight is what determines who is active. DPoS naturally rewards it's top contributors and helps expose or correct bad actors and weak links.
 
 ## <a name="LiskCrypti"></a>How is Lisk different from Crypti?
 Lisk is a fork of Crypti, so it started out just as Crypti.  Since then though, the code is completely different.  Some of the notable differences are:
