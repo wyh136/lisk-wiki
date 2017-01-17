@@ -35,3 +35,5 @@
 **<a href="https://github.com/slasheks/lisk-api">Python interface for the Lisk API</a>** *By: slasheks* <br />A python interface for the Lisk API
 
 **<a href="https://github.com/vegahub/votingtool">Windows based Lisk voting tool</a>** *By: Vega* <br />Ann Autohotkey script for voting Lisk Delegates.
+
+**<a href="https://github.com/wyh136/libLiskWin">Windows dynamic link library for Lisk API</a>** *By: Phinx* <br />Compatible with VC++ and Borland C++（Delphi）.
